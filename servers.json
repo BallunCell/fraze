@@ -1,20 +1,23 @@
 [
     {
-      "color": "ff0000",
-      "dopname": "(X2 акции)",
+      "connecter": 1,
+      "dopname": "1",
       "maxonline": 1000,
       "name": "Сервер: 01",
-      "online": 763,
-      "server_status": true,
-      "server_num": "1"
+      "online": 987
     },
-   {
-      "color": "ff8888",
-      "dopname": "(X2 акции)",
+    {
+      "connecter": 2,
+      "dopname": "1",
       "maxonline": 1000,
       "name": "Сервер: 02",
-      "online": 0,
-      "server_status": false,
-      "server_num": "2"
+      "online": 700
+    },
+    {
+      "connecter": 3,
+      "dopname": "1",
+      "maxonline": 1000,
+      "name": "Сервер: тестовый",
+      "online": 62
     }
 ]
