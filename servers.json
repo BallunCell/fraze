@@ -1,0 +1,23 @@
+[
+    {
+      "connecter": 1,
+      "dopname": "1",
+      "maxonline": 1000,
+      "name": "Сервер: 01",
+      "online": 987
+    },
+    {
+      "connecter": 2,
+      "dopname": "1",
+      "maxonline": 1000,
+      "name": "Сервер: 02",
+      "online": 700
+    },
+    {
+      "connecter": 3,
+      "dopname": "1",
+      "maxonline": 1000,
+      "name": "Сервер: тестовый",
+      "online": 62
+    }
+]
